@@ -1,6 +1,6 @@
 const convert = document.getElementById("convert-button")
 const input = document.getElementById("text-field")
-const feetOutput = document.getElementById("feet-output")
+const lengthOutput = document.getElementById("length-output")
 const volumeOutput = document.getElementById("volume-output")
 const massOutput = document.getElementById("mass-output")
 
@@ -8,7 +8,7 @@ const massOutput = document.getElementById("mass-output")
 convert.addEventListener("click", function(){
     const feet = Number(input.value) * 3.281
     const meter = Number(input.value) / 3.281
-    feetOutput.textContent = `${Number(input.value)} meter(s) = ${feet.toFixed(3)} feet | ${Number(input.value)} feet = ${meter.toFixed(3)} meters`
+    lengthOutput.textContent = `${Number(input.value)} meter(s) = ${feet.toFixed(3)} feet | ${Number(input.value)} feet = ${meter.toFixed(3)} meters`
 })
 
 convert.addEventListener("click", function(){
