@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1F2937;
+}
+
+h1 {
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 28px;
+}
+
+#background1{
+    background: #6943FF;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#text-field {
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    width: 117px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    background-color: transparent;
+    color: white;
+    border-radius: 4px;
+    font-size: 50px;
+}
+
+
+#convert-button {
+    font-family: "Inter", sans-serif; 
+    padding: 12px 40px;
+    border: none;
+    border-radius: 4px;
+    color: #3D3D3D;
+}
+
+
+#length {
+    color: #CCC1FF;
+    font-size: 20px;
+    background-color: #273549;
+    margin: 40px 40px 0px;
+    padding: 20px;
+    border-radius: 8px;  
+    border: none;
+    text-align: center;  
+}
+
+#length h2 {
+    margin: 0 0 15px 0;  
+    font-size: 20px;      
+}
+
+#length p {
+    margin: 0;            
+    font-size: 13px;    
+}
+
+#volume {
+    color: #CCC1FF;
+    font-size: 20px;
+    background-color: #273549;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;  
+    padding-bottom: 20px;
+    border-radius: 8px;  
+    text-align: center;  
+}
+
+#volume h2 {
+    margin: 0 0 15px 0;  
+    font-size: 20px;      
+}
+
+#volume p {
+    margin: 0;            
+    font-size: 13px;    
+}
+
+#mass {
+    color: #CCC1FF;
+    font-size: 20px;
+    background-color: #273549;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;  
+    padding-bottom: 20px;
+    border-radius: 8px;  
+    text-align: center;  
+}
+
+#mass h2 {
+    margin: 0 0 15px 0;  
+    font-size: 20px;      
+}
+
+#mass p {
+    margin: 0;            
+    font-size: 13px;    
+}
