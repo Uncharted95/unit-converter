@@ -1,7 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    background: #1F2937;
+    background: #f4f4f4;
 }
 
 h1 {
@@ -40,9 +40,9 @@ h1 {
 
 
 #length {
-    color: #CCC1FF;
+    color: #5A537B;
     font-size: 20px;
-    background-color: #273549;
+    background-color: #ffffff;
     margin: 40px 40px 0px;
     padding: 20px;
     border-radius: 8px;  
@@ -61,9 +61,9 @@ h1 {
 }
 
 #volume {
-    color: #CCC1FF;
+    color: #5A537B;
     font-size: 20px;
-    background-color: #273549;
+    background-color: #ffffff;
     margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
@@ -84,9 +84,9 @@ h1 {
 }
 
 #mass {
-    color: #CCC1FF;
+    color: #5A537B;
     font-size: 20px;
-    background-color: #273549;
+    background-color: #ffffff;
     margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
